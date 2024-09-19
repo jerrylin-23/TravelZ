@@ -45,8 +45,7 @@ TravelZ is a full-stack travel booking application built with the MERN stack (Mo
 - User authentication (signup, login, logout)
 - OAuth integration (Google, Facebook, Apple) (WIP!)
 - Property listing creation and management
-- Property search and filtering
-- Booking system
+- Booking system Database tracks already booked dates for properties
 - User dashboard
 - Responsive design
 
