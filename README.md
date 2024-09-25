@@ -38,7 +38,7 @@ TravelZ is a full-stack travel booking application built with the MERN stack (Mo
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
